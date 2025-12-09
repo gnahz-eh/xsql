@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.zhanghe</groupId>
-    <artifactId>Equal</artifactId>
+    <artifactId>XSQL</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Equal</name>
-    <description>A Java lib to operate excel files in a SQL-style.</description>
+    <name>XSQL</name>
+    <description>Excel operations with SQL-style Query Language - A Java library for CRUD operations on Excel and CSV files.</description>
 
     <properties>
         <poi.version>4.0.1</poi.version>
