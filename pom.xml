@@ -11,7 +11,7 @@
     <description>Excel operations with SQL-style Query Language - A Java library for CRUD operations on Excel and CSV files.</description>
 
     <properties>
-        <poi.version>4.0.1</poi.version>
+        <poi.version>4.1.1</poi.version>
         <java.version>1.8</java.version>
         <encoding.version>UTF-8</encoding.version>
         <maven-compiler-plugin.version>2.5.1</maven-compiler-plugin.version>
